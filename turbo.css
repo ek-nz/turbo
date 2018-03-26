@@ -307,11 +307,14 @@ nav ul {
 
 nav li {
     display: inline;
-    padding: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 15px;
     color: #fff;
     font-weight: lighter;
 }
-
 
 
 
