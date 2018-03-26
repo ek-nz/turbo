@@ -297,11 +297,12 @@ header h1 {
     font-size: 1em;
 }
 
+/** Modules **/
 nav ul {
     list-style-type: none;
     margin: 0;
     padding: 10px;
-    background-color: #ccc;
+    background-color: #ddd;
     text-transform: uppercase;
 }
 
