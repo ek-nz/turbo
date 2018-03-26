@@ -275,7 +275,9 @@ ol,
 form {
   margin-bottom: 2.5rem; }
 
-/** Base styles (mine) **/
+/** 
+Base styles (mine) ..............................................................
+**/
 
 body {
     margin: 0;
@@ -297,7 +299,7 @@ header h1 {
 nav ul {
     list-style-type: none;
     margin: 0;
-    padding: 15px;
+    padding: 10px;
     background-color: #ccc
 }
 
