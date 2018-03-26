@@ -283,7 +283,7 @@ body {
     margin: 0;
     padding: 0;
     background: #f9f9f9;
-    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /** Layout **/
@@ -294,19 +294,22 @@ body {
 
 header h1 {
     display: inline;
+    font-size: 1em;
 }
 
 nav ul {
     list-style-type: none;
     margin: 0;
     padding: 10px;
-    background-color: #ccc
+    background-color: #ccc;
+    text-transform: uppercase;
 }
 
 nav li {
     display: inline;
     padding: 20px;
     color: #fff;
+    font-weight: lighter;
 }
 
 
